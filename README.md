@@ -1,1 +1,3 @@
-# Random_Password_Generator_Python
+# Random Password Generator (Python3)
+
+`python3 main.py`
